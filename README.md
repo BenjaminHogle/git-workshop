@@ -9,7 +9,7 @@ First thing to do is to setup your identity. This identifies you to
 other people who download the project. In your terminal, run the following commands **with your actual information** inside the double quotes.
 
     git config --global user.name "Your Name"
-    git config --global user.email your.email@example.com
+    git config --global user.email "your.email@example.com"
 
 ## Starting your journey
 
